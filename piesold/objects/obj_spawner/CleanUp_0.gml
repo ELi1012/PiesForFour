@@ -1,1 +1,0 @@
-if (ds_exists(ds_bboxes, ds_type_list)) { ds_list_destroy(ds_bboxes); }

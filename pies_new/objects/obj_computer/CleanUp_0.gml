@@ -1,0 +1,1 @@
+if (ds_exists(ds_prev_pages, ds_type_stack)) ds_stack_destroy(ds_prev_pages);

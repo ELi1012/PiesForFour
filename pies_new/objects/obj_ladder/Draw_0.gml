@@ -1,0 +1,1 @@
+draw_ladder(ladder_x, ladder_y);

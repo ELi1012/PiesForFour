@@ -1,1 +1,0 @@
-if (ds_exists(ds_backpages, ds_type_stack)) ds_stack_destroy(ds_backpages);

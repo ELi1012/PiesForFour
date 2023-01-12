@@ -1,0 +1,1 @@
+if (ds_exists(ds_pie_carry, ds_type_list)) ds_list_destroy(ds_pie_carry);
