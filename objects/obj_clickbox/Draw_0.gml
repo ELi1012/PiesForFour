@@ -1,0 +1,1 @@
+draw_sprite(spr_clickbox, 0, x, y)
